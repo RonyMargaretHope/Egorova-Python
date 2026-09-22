@@ -38,4 +38,4 @@ No, the bracket sequence [((())()(())]] is incorrect.
 To make it correct, the first closing square bracket ] at the end should be replaced with a closing parenthesis ).
 The correct sequence is [((())()(()))].
 
-* Commands in instruction valid for CMD console in Windows 
+* The commands in the instructions are intended for the Windows CMD console.
